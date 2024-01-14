@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "10QhSPs4/1COL3RIMF2JrWYCvt4cit+6w+xRyBLWWZU=",
+  "Source": "rock-paper-scissors-api",
+  "BasePath": "_content/rock-paper-scissors-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
