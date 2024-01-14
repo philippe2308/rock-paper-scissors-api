@@ -16,7 +16,7 @@ WORKDIR /app
 COPY --from=build /app/out ./
 
 # Expose port 80
-EXPOSE 5000
+EXPOSE 8080
 
 # Set the entry point for the container
 ENTRYPOINT ["dotnet", "rock-paper-scissors-api.dll"]
