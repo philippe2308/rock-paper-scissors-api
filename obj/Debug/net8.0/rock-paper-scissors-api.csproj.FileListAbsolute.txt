@@ -32,3 +32,4 @@
 /Users/matheusphilippedasilva/Desktop/btg/rock-paper-scissors-api/obj/Debug/net8.0/rock-paper-scissors-api.genruntimeconfig.cache
 /Users/matheusphilippedasilva/Desktop/btg/rock-paper-scissors-api/obj/Debug/net8.0/ref/rock-paper-scissors-api.dll
 /Users/matheusphilippedasilva/Desktop/btg/rock-paper-scissors-api/obj/Debug/net8.0/rock-paper-scissors-api.sourcelink.json
+/Users/matheusphilippedasilva/Desktop/btg/rock-paper-scissors-api/bin/Debug/net8.0/package.json
