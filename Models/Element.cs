@@ -12,6 +12,10 @@ namespace rock_paper_scissors_api.Models
 
         public string Name { get; set; }
 
+        public string Image { get; set; }
+
+        public string WinnerImage { get; set; }
+        public string LoserImage { get; set; }
 
     }
 }
